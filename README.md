@@ -16,22 +16,28 @@ Cost: The total ad spend for a specific date, representing the expenses
 incurred on advertising efforts.
 Impressions: The count of individuals who viewed the advertisements, reflecting the
 ad's reach.
+
 Clicks: The number of times users clicked on the ad, indicating engagement and interest.
 Prospects: The count of potential customers who expressed interest in the product or
 service, marked by the sales team.
+
 Payments: The number of purchases made as a result of the advertising efforts,
 revealing the conversion rate.
+
 CTR (Click-Through Rate): The percentage of users who clicked on the ad after
-1
 viewing it, gauging ad effectiveness. It is noted that the original CTR was calculated
 using clicks/impressions for Google Ad data and clicks/avg. position was used to
 calculate an estimated CTR for listing site data.
+
 CPC (Cost per Click): The average cost incurred for each click on the ad, reflecting
 cost efficiency. This quantity is calculated using cost/clicks.
+
 ROAS (Return on Ad Spend): The revenue generated to ad spend ratio indicates
 campaign profitability. This quantity is calculated using Payment/Cost.
+
 Average Position: The average ranking of the ad in search results or listings,
 influencing visibility and engagement.
+
 The data in the "Listing Site Data" column is classified into several
 categories:
 1. "Management, Reservations and Scheduling": Includes categories like "Camp
